@@ -1,0 +1,60 @@
+body {
+    background-image: url("http://hothardware.com/newsimages/Item30512/google-statue-of-liberty.jpg");
+    background-size: 1349px 710px;
+    background-repeat: no-repeat;
+}
+#sol-truck{
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    left:20%;
+}
+
+#next {
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    left: 85%;
+}
+.carousel-item {
+    height: 100px;
+    width: 100px;
+}
+
+#myCarousel {
+    height: 500px;
+    width: 120px;
+     position: absolute;
+    text-align: center;
+    top:20%;
+}
+#i2 {
+    height: 80px;
+    width: 90px
+}
+
+#i3 {
+    height: 80px;
+    width: 90px
+}
+#i4 {
+    height: 80px;
+    width: 90px
+}
+#i5 {
+    height: 80px;
+    width: 90px
+}
+#i6 {
+    height: 80px;
+    width: 90px
+}
+#i7 {
+    height: 80px;
+    width: 90px
+}
+#users-creation {
+    position:absolute;
+    top:300px;
+    left:1100px;
+}

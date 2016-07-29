@@ -1,0 +1,36 @@
+body {
+    background: url("http://i1139.photobucket.com/albums/n544/DolliePop/Backgrounds%20xD/38-2.gif");
+}
+
+#loc1 {
+    display: inline-block;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: auto;
+    left:25%;
+}
+
+#loc2 {
+    display: inline-block;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: auto;
+    left:25%;
+}
+
+#loc3 {
+    display: inline-block;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: auto;
+    left:25%;
+}

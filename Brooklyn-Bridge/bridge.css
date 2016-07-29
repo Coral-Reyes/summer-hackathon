@@ -1,0 +1,68 @@
+body {
+    background-image: url("http://baldpunk.com/wp-content/uploads/2010/04/Brooklyn_Bridge_Park16_Bklyn_Ice_Cream.jpg");
+    background-size: 1600px 750px;
+}
+
+#bridge-truck {
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    left: 15%;
+}
+
+.carousel-item {
+    height: 100px;
+    width: 100px;
+}
+
+#myCarousel {
+    height: 500px;
+    width: 120px;
+     position: absolute;
+    text-align: center;
+    top:20%;
+}
+#i2 {
+    height: 80px;
+    width: 90px
+}
+
+#ice-cream-seller {
+    top:20%;
+}
+#i3 {
+    height: 80px;
+    width: 90px
+}
+#i4 {
+    height: 80px;
+    width: 90px
+}
+#i5 {
+    height: 80px;
+    width: 90px
+}
+#i6 {
+    height: 80px;
+    width: 90px
+}
+#i7 {
+    height: 80px;
+    width: 90px
+}
+
+
+#next {
+    position: absolute;
+    text-align: center;
+    top:5%;
+    left: 90%;
+}
+
+
+#users-creation {
+    position:absolute;
+    top:300px;
+    left:1100px;
+    
+}
